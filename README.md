@@ -1,4 +1,7 @@
 # alquran
+[demo](https://baca-alquran.netlify.app/)
+[sumber api](https://github.com/sutanlab/quran-api)
+
 
 ## Project setup
 ```
